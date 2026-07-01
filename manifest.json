@@ -14,7 +14,7 @@
   },
   "images": [
     { "url": "https://picsum.photos/id/1015/3840/2160", "duration": 12 },
-    { "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4", "duration": 15 },
+    { "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4", "duration": 15 },
     { "url": "https://picsum.photos/id/1016/3840/2160", "duration": 12 },
     { "url": "https://picsum.photos/id/1018/3840/2160" },
     { "url": "https://picsum.photos/id/1039/3840/2160" },
