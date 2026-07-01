@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "deviceName": "Conference Room A",
+  "defaultDuration": 10,
+  "airplay": {
+    "description": "To play content on this TV, connect to it using AirPlay.",
+    "subtitle": "On your iPhone, iPad, or Mac, choose this Apple TV from the AirPlay menu.",
+    "movement": "fade",
+    "hidden": false,
+    "moveInterval": 33
+  },
+  "images": [
+    { "url": "https://picsum.photos/id/1015/3840/2160", "duration": 12 },
+    { "url": "https://picsum.photos/id/1016/3840/2160", "duration": 12 },
+    { "url": "https://picsum.photos/id/1018/3840/2160" },
+    { "url": "https://picsum.photos/id/1039/3840/2160" },
+    {
+      "url": "https://picsum.photos/id/1043/3840/2160",
+      "startOn": "2018-01-01T00:00:00Z",
+      "endBy": "2030-12-31T23:59:59Z"
+    }
+  ]
+}
